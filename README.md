@@ -34,7 +34,7 @@ In the end we are going to split the data into a ratio of 80:20 and then train o
 
 * throttletrain.ipynb
 
-# Using the trained models to run your actors autonomously cloning your behaviour in Carla
+# Using the trained models to run your actors autonomously by cloning your behaviour in Carla
 
 We have added the code for driving the car autonomously. If you enter any thing from the keyboard when it's driving autonomously the car's autonomous mode will stop.
 
